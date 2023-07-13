@@ -1,4 +1,9 @@
 1.işlem
+<<<<<<< HEAD
 2.işlem
 3.işlem
+=======
+2.işlem     1.dal 
+3.işlem     2.dal
+>>>>>>> dal1
 4.işlem
